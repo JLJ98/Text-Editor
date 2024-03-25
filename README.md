@@ -69,7 +69,7 @@ For questions or issues regarding Text Editor, please open an issue on GitHub or
 
 # Links
 
-[Link to demo video](https://drive.google.com/file/d/1WWHkjpexIQ-gWYVzINNr5suXNgup91sF/view?usp=sharing)
+[Link to deployed app:](https://text-editor-h3ru.onrender.com/)
 
 # Credits
 
